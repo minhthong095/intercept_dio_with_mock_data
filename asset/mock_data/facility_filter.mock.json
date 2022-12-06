@@ -1,0 +1,11 @@
+{
+    "message": "Success",
+    "data": [
+        "ELEVATOR",
+        "HOT_EATER",
+        "COOKING_PLACE",
+        "PARKING",
+        "CLEANING_SERVICE",
+        "NEARBY_STORES"
+    ]
+}

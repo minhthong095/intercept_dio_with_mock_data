@@ -1,0 +1,125 @@
+{
+    "message": "Success",
+    "data": [
+        {
+            "id": 8522,
+            "title": "Shared house",
+            "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sitting-rooms-hilliard-locust-18-11-20-1578948041.jpg?crop=0.652xw:1.00xh;0.213xw,0&resize=100:*"
+        },
+        {
+            "id": 7769,
+            "title": "Designed",
+            "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/black-rooms-3-1536769018.jpg?crop=1.00xw:0.771xh;0,0&resize=100:*"
+        },
+        {
+            "id": 5348,
+            "title": "Cabin",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d0/52/7b/urban-rooms.jpg?w=100&h=100&s=1"
+        },
+        {
+            "id": 8174,
+            "title": "Tiny homes",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 670,
+            "title": "Caves",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/05/6e/4e/rooms-at-number-one.jpg?w=100&h=100&s=1"
+        },
+        {
+            "id": 8225,
+            "title": "Amazing views",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/18/31/fd/rooms-n.jpg?w=100&h=100&s=1"
+        },
+        {
+            "id": 8166,
+            "title": "Lakefront",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8186,
+            "title": "National parks",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/70/16/fe/rooms-ciencias.jpg?w=100&h=100&s=1"
+        },
+        {
+            "id": 675,
+            "title": "Campers",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8102,
+            "title": "Countryside",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8148,
+            "title": "Castles",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8528,
+            "title": "Amazing pools",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8534,
+            "title": "Beach",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 677,
+            "title": "Beachfront",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8188,
+            "title": "Riads",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8526,
+            "title": "Tropical",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8536,
+            "title": "Trulli",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 4104,
+            "title": "OMG!",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 5635,
+            "title": "Bed & breakfasts",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8538,
+            "title": "Earth homes",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8192,
+            "title": "Historical homes",
+            "image": "https://a0.muscache.com/pictures/4759a0a7-96a8-4dcd-9490-ed785af6df14.jpg"
+        },
+        {
+            "id": 7765,
+            "title": "Tree homes",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8542,
+            "title": "Islands",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        },
+        {
+            "id": 8253,
+            "title": "Mansions",
+            "image": "https://cf.bstatic.com/xdata/images/xphoto/square100/45450112.jpg?k=90f753e26b1a47b003403590bb6235039e60f38eb743dc265a5cfde6e42197ca&o="
+        }
+    ]
+}

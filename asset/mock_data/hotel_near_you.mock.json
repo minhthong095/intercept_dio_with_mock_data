@@ -1,0 +1,3250 @@
+{
+    "message": "Success",
+    "data": [
+        {
+            "id": "63589d47e82d319f33f48dbc",
+            "name": "Clay Mccarty Gates Avenue",
+            "price": 1.39,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 4.95,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.95 km"
+        },
+        {
+            "id": "63589d4741adeb63d83494ac",
+            "name": "Holden Kline Virginia Place",
+            "price": 85.9,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 1,
+            "distance": 0.05,
+            "facility": [
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.05 km"
+        },
+        {
+            "id": "63589d47f07350c4f9be68ab",
+            "name": "Wolf Gonzales Sumpter Street",
+            "price": 67.98,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 2.9,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.9 km"
+        },
+        {
+            "id": "63589d47162c4e6d951dd23d",
+            "name": "Lawrence Joyce Butler Street",
+            "price": 90.33,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 2.75,
+            "facility": [
+                "ELEVATOR",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.75 km"
+        },
+        {
+            "id": "63589d471f182b3950dae01a",
+            "name": "Shannon Macdonald Billings Place",
+            "price": 98.28,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 4.23,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.23 km"
+        },
+        {
+            "id": "63589d47f3fd093fb54382e1",
+            "name": "Kerri Bell Bayard Street",
+            "price": 58.34,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 4.79,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.79 km"
+        },
+        {
+            "id": "63589d47600c0bbf11ca41ad",
+            "name": "Alma Butler Adelphi Street",
+            "price": 44.46,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 0.45,
+            "facility": [
+                "NEARBY_STORES",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.45 km"
+        },
+        {
+            "id": "63589d478e6399270cd0f1ad",
+            "name": "Marilyn Salas Battery Avenue",
+            "price": 98.58,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 3.67,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.67 km"
+        },
+        {
+            "id": "63589d4709c21f9a6ac4aa44",
+            "name": "Cameron Cohen Etna Street",
+            "price": 30.96,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 1.09,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.09 km"
+        },
+        {
+            "id": "63589d47518b93e9f7573c14",
+            "name": "Kim Cruz Thomas Street",
+            "price": 1.75,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 4.42,
+            "facility": [
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.42 km"
+        },
+        {
+            "id": "63589d474cb091f41942cb9d",
+            "name": "Melba Graves Village Court",
+            "price": 19.52,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 3.26,
+            "facility": [
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.26 km"
+        },
+        {
+            "id": "63589d47cca59497ac302d92",
+            "name": "Ann Sloan Lexington Avenue",
+            "price": 34.55,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 1.32,
+            "facility": [
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.32 km"
+        },
+        {
+            "id": "63589d47658b20822addc7fb",
+            "name": "David Stein Ditmas Avenue",
+            "price": 83.76,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 3.3,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.3 km"
+        },
+        {
+            "id": "63589d476adff40efbfb09a9",
+            "name": "Bethany Holt Remsen Avenue",
+            "price": 11.52,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 4.42,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.42 km"
+        },
+        {
+            "id": "63589d47913522e367e43480",
+            "name": "Houston Mcfarland Louis Place",
+            "price": 12.5,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 1.04,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.04 km"
+        },
+        {
+            "id": "63589d4713819112a459930a",
+            "name": "Addie Gardner Ocean Court",
+            "price": 32.14,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 3.87,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.87 km"
+        },
+        {
+            "id": "63589d4789ee61c7fa21ac42",
+            "name": "Allison Navarro Waldorf Court",
+            "price": 77.15,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 0.2,
+            "facility": [
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.2 km"
+        },
+        {
+            "id": "63589d47b956fb3d3f045e82",
+            "name": "Rivera Marsh Woodhull Street",
+            "price": 18.96,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 1.11,
+            "facility": [
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.11 km"
+        },
+        {
+            "id": "63589d478598b5a195ee7bcb",
+            "name": "Petty Browning Concord Street",
+            "price": 74.77,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 4.59,
+            "facility": [
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.59 km"
+        },
+        {
+            "id": "63589d475b7e2f4dbe6684f7",
+            "name": "Angel Klein Irvington Place",
+            "price": 89.51,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 2.33,
+            "facility": [
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.33 km"
+        },
+        {
+            "id": "63589d47e90ebe89408f8394",
+            "name": "Brock Phelps Indiana Place",
+            "price": 35.26,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 1,
+            "distance": 3.85,
+            "facility": [
+                "NEARBY_STORES",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.85 km"
+        },
+        {
+            "id": "63589d4786e00af6b6774acf",
+            "name": "Lowe Fuentes Arkansas Drive",
+            "price": 34.2,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 1.5,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.5 km"
+        },
+        {
+            "id": "63589d476f06b004f4443a31",
+            "name": "Eve Nolan Canal Avenue",
+            "price": 14.58,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 3.9,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.9 km"
+        },
+        {
+            "id": "63589d4702213b101bf948fb",
+            "name": "Geraldine Spence Aitken Place",
+            "price": 31.97,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 3.02,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.02 km"
+        },
+        {
+            "id": "63589d472d6f9ba1b246569c",
+            "name": "Bryan Lewis Baycliff Terrace",
+            "price": 22.58,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 1.46,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.46 km"
+        },
+        {
+            "id": "63589d4727746185038f22bd",
+            "name": "Adeline Booth Ferris Street",
+            "price": 94.53,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 3.25,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.25 km"
+        },
+        {
+            "id": "63589d47a5972b2cacbe8f4e",
+            "name": "Mindy Colon Erasmus Street",
+            "price": 53.15,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 3.48,
+            "facility": [
+                "ELEVATOR",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.48 km"
+        },
+        {
+            "id": "63589d476d75e92678eb0ec1",
+            "name": "Pace Webster Pulaski Street",
+            "price": 73.65,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 4.51,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.51 km"
+        },
+        {
+            "id": "63589d4799cad69474042efc",
+            "name": "Carly Fitzpatrick Maujer Street",
+            "price": 29.04,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 1.92,
+            "facility": [
+                "HOT_EATER"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.92 km"
+        },
+        {
+            "id": "63589d47edaec21bcc5388c2",
+            "name": "Noelle Summers Harden Street",
+            "price": 92.21,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 2.35,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.35 km"
+        },
+        {
+            "id": "63589d471d6acc2271a738f6",
+            "name": "Charles Delaney Elliott Place",
+            "price": 55.73,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 4.13,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.13 km"
+        },
+        {
+            "id": "63589d476b443fc236b36266",
+            "name": "Jerry Stephenson Cypress Court",
+            "price": 92.62,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 3.56,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.56 km"
+        },
+        {
+            "id": "63589d479983bc6a4a35d413",
+            "name": "Howell Patton Kane Place",
+            "price": 8.78,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 1.12,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.12 km"
+        },
+        {
+            "id": "63589d4756f52cd71a47af40",
+            "name": "Thompson Whitfield Kings Place",
+            "price": 49.48,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 0.98,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.98 km"
+        },
+        {
+            "id": "63589d471e9768b2a6480173",
+            "name": "Burton Bullock Harman Street",
+            "price": 51.12,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 4.78,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.78 km"
+        },
+        {
+            "id": "63589d478b1b22dbadd25838",
+            "name": "Richardson Mayer College Place",
+            "price": 71.38,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 2.47,
+            "facility": [
+                "HOT_EATER",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.47 km"
+        },
+        {
+            "id": "63589d47afd697c4baae1900",
+            "name": "Sherman Pena Hendrix Street",
+            "price": 23.32,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 3.72,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.72 km"
+        },
+        {
+            "id": "63589d477c788803f1cef582",
+            "name": "Karla Dunlap School Lane",
+            "price": 37.32,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 3.61,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.61 km"
+        },
+        {
+            "id": "63589d475720622c94304fa2",
+            "name": "Meadows Kent Columbus Place",
+            "price": 17.71,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 1.89,
+            "facility": [
+                "HOT_EATER",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.89 km"
+        },
+        {
+            "id": "63589d479c80d243edef8a52",
+            "name": "Mullins Richard Anthony Street",
+            "price": 51.11,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 1.33,
+            "facility": [
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.33 km"
+        },
+        {
+            "id": "63589d47f480d49aad901d0d",
+            "name": "Corinne Fischer Madoc Avenue",
+            "price": 29.07,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 0.34,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.34 km"
+        },
+        {
+            "id": "63589d47d0049d6c6b54c46b",
+            "name": "Kelly Hull Prospect Place",
+            "price": 40.98,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 0.7,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.7 km"
+        },
+        {
+            "id": "63589d47077054ba132f8ed0",
+            "name": "Lila Barr Johnson Avenue",
+            "price": 86.65,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 2.78,
+            "facility": [
+                "NEARBY_STORES",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.78 km"
+        },
+        {
+            "id": "63589d47f77ef1e37a203548",
+            "name": "Eva Barker Gilmore Court",
+            "price": 81.63,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 1.57,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.57 km"
+        },
+        {
+            "id": "63589d47166fabcf51ba1525",
+            "name": "Harriet Love Ryder Avenue",
+            "price": 36.44,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 0.97,
+            "facility": [
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.97 km"
+        },
+        {
+            "id": "63589d47fe2cc27df1b6d469",
+            "name": "Janelle Parsons Wortman Avenue",
+            "price": 13.44,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 4.46,
+            "facility": [
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.46 km"
+        },
+        {
+            "id": "63589d47b8811ee89343b380",
+            "name": "Kenya Williamson Eaton Court",
+            "price": 62.56,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 2.09,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.09 km"
+        },
+        {
+            "id": "63589d473b9c713359d1b0b3",
+            "name": "Candy Bernard Blake Avenue",
+            "price": 76.21,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 4.49,
+            "facility": [
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.49 km"
+        },
+        {
+            "id": "63589d479f398b561382fa48",
+            "name": "Lilia Goodwin Ira Court",
+            "price": 91.05,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.95,
+            "facility": [
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.95 km"
+        },
+        {
+            "id": "63589d47e91ca90b5d0afbf2",
+            "name": "Barron Tyson Rost Place",
+            "price": 35.98,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 1.43,
+            "facility": [
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.43 km"
+        },
+        {
+            "id": "63589d4793cb3e180e1b781c",
+            "name": "Sharron Sanders Lloyd Street",
+            "price": 89.66,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 4.85,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.85 km"
+        },
+        {
+            "id": "63589d4744adf0f4e6bf253b",
+            "name": "Bishop Dudley Grove Place",
+            "price": 20.54,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 2.05,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.05 km"
+        },
+        {
+            "id": "63589d4791579e237c1edca3",
+            "name": "Nicholson Patterson Debevoise Street",
+            "price": 66.14,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 4.33,
+            "facility": [
+                "ELEVATOR",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.33 km"
+        },
+        {
+            "id": "63589d470e57ac6821da0684",
+            "name": "Matthews Wells Folsom Place",
+            "price": 77.47,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 4.25,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.25 km"
+        },
+        {
+            "id": "63589d47878584cb181fd3bc",
+            "name": "Carey Riddle Williams Avenue",
+            "price": 52.31,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 3.33,
+            "facility": [
+                "ELEVATOR",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.33 km"
+        },
+        {
+            "id": "63589d47e271db94befb7177",
+            "name": "Faye Solomon Foster Avenue",
+            "price": 90.77,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 2.43,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.43 km"
+        },
+        {
+            "id": "63589d474b921f74b2d4ea97",
+            "name": "Mayer Schneider Lake Street",
+            "price": 20.61,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 4.14,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.14 km"
+        },
+        {
+            "id": "63589d477b120ddb00cf3fd9",
+            "name": "Walter Russell Williams Court",
+            "price": 14.93,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.82,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.82 km"
+        },
+        {
+            "id": "63589d472bdd61f57e0bc32e",
+            "name": "Shelly Gamble Dictum Court",
+            "price": 76.9,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 1.56,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.56 km"
+        },
+        {
+            "id": "63589d4799489a5259ff3155",
+            "name": "Bird Morton Oceanic Avenue",
+            "price": 22.81,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 1,
+            "distance": 4.08,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.08 km"
+        },
+        {
+            "id": "63589d47f6352411d7d4159d",
+            "name": "Daniel Ford Kent Avenue",
+            "price": 1.27,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 3.13,
+            "facility": [
+                "ELEVATOR"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.13 km"
+        },
+        {
+            "id": "63589d47d332a30ae20c40d2",
+            "name": "Wood Decker Sunnyside Court",
+            "price": 57.79,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 2.24,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.24 km"
+        },
+        {
+            "id": "63589d47f1def479e3fa6059",
+            "name": "Ella Crawford Kane Street",
+            "price": 91.63,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 1.97,
+            "facility": [
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.97 km"
+        },
+        {
+            "id": "63589d4721d1d6e112826b36",
+            "name": "Melisa Dyer Thames Street",
+            "price": 33.32,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 4.28,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.28 km"
+        },
+        {
+            "id": "63589d4751810e3a78776dc1",
+            "name": "Atkinson Mathews Beaver Street",
+            "price": 8.11,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 4.67,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.67 km"
+        },
+        {
+            "id": "63589d475fc248bb0d18a7c7",
+            "name": "Cora Petersen Portal Street",
+            "price": 84.86,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 2.3,
+            "facility": [
+                "COOKING_PLACE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.3 km"
+        },
+        {
+            "id": "63589d4763258b0e5822374c",
+            "name": "Sharon Oliver Temple Court",
+            "price": 58.22,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 1.46,
+            "facility": [
+                "NEARBY_STORES",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.46 km"
+        },
+        {
+            "id": "63589d474d581410c6554d88",
+            "name": "Sullivan Simon Cumberland Walk",
+            "price": 81.51,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 2.37,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.37 km"
+        },
+        {
+            "id": "63589d4790c9d9c2031b13d8",
+            "name": "Sherry Hayden Brooklyn Road",
+            "price": 5.98,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.24,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.24 km"
+        },
+        {
+            "id": "63589d47accbd225c6b3aca6",
+            "name": "Moore Harper Stuyvesant Avenue",
+            "price": 48.77,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 0.39,
+            "facility": [
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.39 km"
+        },
+        {
+            "id": "63589d47c23d4e781d9661b0",
+            "name": "Concepcion Hewitt Woodpoint Road",
+            "price": 64.17,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 0.17,
+            "facility": [
+                "HOT_EATER",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.17 km"
+        },
+        {
+            "id": "63589d476ffce7a1e23be373",
+            "name": "Maricela Frazier Desmond Court",
+            "price": 27.01,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 2.48,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.48 km"
+        },
+        {
+            "id": "63589d470759eba89b2d00e1",
+            "name": "Christina Knowles Fleet Street",
+            "price": 91.1,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 4.9,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.9 km"
+        },
+        {
+            "id": "63589d4781d064332979603a",
+            "name": "Beth Slater Marconi Place",
+            "price": 12.32,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 1,
+            "distance": 2.44,
+            "facility": [
+                "ELEVATOR",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.44 km"
+        },
+        {
+            "id": "63589d47c2392cde2aef9448",
+            "name": "Hale Delgado Seagate Avenue",
+            "price": 24.74,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 0.68,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.68 km"
+        },
+        {
+            "id": "63589d4765efbfb50cfd404d",
+            "name": "Coffey Hutchinson Halleck Street",
+            "price": 73.98,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 1.41,
+            "facility": [
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.41 km"
+        },
+        {
+            "id": "63589d47e8d4062bb171aa28",
+            "name": "Cannon Dunn Joralemon Street",
+            "price": 42.21,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 2.47,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.47 km"
+        },
+        {
+            "id": "63589d47acfd5a29757e1bc7",
+            "name": "Sandra Fleming Boerum Place",
+            "price": 25.21,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 1.86,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.86 km"
+        },
+        {
+            "id": "63589d47e4f0b163b664a044",
+            "name": "Wynn Reeves Tapscott Street",
+            "price": 74.38,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 0.48,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.48 km"
+        },
+        {
+            "id": "63589d47375bb7e534505b5b",
+            "name": "Hewitt Parrish Olive Street",
+            "price": 61.91,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 4.27,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.27 km"
+        },
+        {
+            "id": "63589d4702edb361255fd80e",
+            "name": "Farley Snyder Forrest Street",
+            "price": 55.58,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 3.52,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.52 km"
+        },
+        {
+            "id": "63589d470cb7a1830732d3c3",
+            "name": "Collier Armstrong Essex Street",
+            "price": 28.66,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 1.1,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.1 km"
+        },
+        {
+            "id": "63589d47333646a23b811371",
+            "name": "Marina Alvarado Gotham Avenue",
+            "price": 29.98,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 3.31,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.31 km"
+        },
+        {
+            "id": "63589d476a3ba8c1268402cc",
+            "name": "Evelyn Vaughan Schweikerts Walk",
+            "price": 33.96,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 2.15,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.15 km"
+        },
+        {
+            "id": "63589d47d5bea8c7dde89c33",
+            "name": "Lela Cote Crystal Street",
+            "price": 94.67,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 2.85,
+            "facility": [
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.85 km"
+        },
+        {
+            "id": "63589d47aca85fe235d14a71",
+            "name": "Johns Kinney Chapel Street",
+            "price": 59.49,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 3.4,
+            "facility": [
+                "ELEVATOR",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.4 km"
+        },
+        {
+            "id": "63589d479118d107c1a51d83",
+            "name": "Garrett Houston Langham Street",
+            "price": 88.57,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 0.85,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.85 km"
+        },
+        {
+            "id": "63589d4796a9b724879c1123",
+            "name": "Poole Booker Rockaway Avenue",
+            "price": 0.25,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 4.68,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.68 km"
+        },
+        {
+            "id": "63589d475392d2b8930fed35",
+            "name": "Greene Pearson Lee Avenue",
+            "price": 90.48,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 4.45,
+            "facility": [
+                "HOT_EATER"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.45 km"
+        },
+        {
+            "id": "63589d47fd954a1abb399ce5",
+            "name": "Maribel Downs Kiely Place",
+            "price": 76.06,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 1.44,
+            "facility": [
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.44 km"
+        },
+        {
+            "id": "63589d47bff5b27e965140f2",
+            "name": "Pate Coffey Cropsey Avenue",
+            "price": 23.57,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 4.84,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.84 km"
+        },
+        {
+            "id": "63589d47881560903ec959e5",
+            "name": "Marcella Gallegos Hubbard Place",
+            "price": 30.44,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 1.18,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.18 km"
+        },
+        {
+            "id": "63589d471d06be2e98d300ba",
+            "name": "Acosta Meyer Aberdeen Street",
+            "price": 20.67,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 3.63,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.63 km"
+        },
+        {
+            "id": "63589d470c3e0f0c7e9804cb",
+            "name": "Hester Murphy Dooley Street",
+            "price": 48.77,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 2.2,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.2 km"
+        },
+        {
+            "id": "63589d475af9984e7850bc6c",
+            "name": "Michael Burgess Ruby Street",
+            "price": 6.21,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 1.44,
+            "facility": [
+                "HOT_EATER",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.44 km"
+        },
+        {
+            "id": "63589d4779371de146a74d5a",
+            "name": "Hurley Mills Creamer Street",
+            "price": 37.06,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 1.39,
+            "facility": [
+                "ELEVATOR",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.39 km"
+        },
+        {
+            "id": "63589d47a70589607e8d963e",
+            "name": "Etta Suarez Dare Court",
+            "price": 63.73,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.37,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.37 km"
+        },
+        {
+            "id": "63589d47779c3af3cf7ec4d5",
+            "name": "Mckee Garza Autumn Avenue",
+            "price": 33.85,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 3.11,
+            "facility": [
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.11 km"
+        },
+        {
+            "id": "63589d471e3c4a5b0dbae02f",
+            "name": "Annette Burns Wakeman Place",
+            "price": 16.74,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 4.57,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.57 km"
+        },
+        {
+            "id": "63589d4761c512a9476668ab",
+            "name": "Jayne Duran Matthews Court",
+            "price": 44.15,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 4.61,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.61 km"
+        },
+        {
+            "id": "63589d478cd23cea3d8a1ebd",
+            "name": "Cheri Hurley Furman Avenue",
+            "price": 3.54,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 4.73,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.73 km"
+        },
+        {
+            "id": "63589d4757b749501917c301",
+            "name": "Powers Carson Montgomery Place",
+            "price": 76.83,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 2.99,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.99 km"
+        },
+        {
+            "id": "63589d47a7e7a7ef9a5693f9",
+            "name": "Kristi Marks Montauk Avenue",
+            "price": 44.55,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 0.02,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.02 km"
+        },
+        {
+            "id": "63589d47e7d4f4e1e29678b2",
+            "name": "Moran Jenkins Banker Street",
+            "price": 87.77,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 2.62,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.62 km"
+        },
+        {
+            "id": "63589d471565848d50384044",
+            "name": "Brigitte Durham Herkimer Street",
+            "price": 88.9,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 0.36,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.36 km"
+        },
+        {
+            "id": "63589d4767b4b09566a2ade9",
+            "name": "Hardin Mcleod Trucklemans Lane",
+            "price": 65.58,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 2.71,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.71 km"
+        },
+        {
+            "id": "63589d4794ee73cf10c3a603",
+            "name": "Wise Hopkins Quentin Road",
+            "price": 17.55,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 0.93,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.93 km"
+        },
+        {
+            "id": "63589d474f695699b47830ec",
+            "name": "Emilia Lang Douglass Street",
+            "price": 81.23,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 2.24,
+            "facility": [
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.24 km"
+        },
+        {
+            "id": "63589d471a702747f5feba08",
+            "name": "Matilda Beck Dank Court",
+            "price": 25.8,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 0.12,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.12 km"
+        },
+        {
+            "id": "63589d47c8e6da89b9391e7f",
+            "name": "Kay Wood Wyona Street",
+            "price": 73.38,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 2.33,
+            "facility": [
+                "ELEVATOR",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.33 km"
+        },
+        {
+            "id": "63589d47e589d4e4d5d79364",
+            "name": "Shauna Guy Ralph Avenue",
+            "price": 95.54,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 1.03,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.03 km"
+        },
+        {
+            "id": "63589d477e358e0769cadf19",
+            "name": "Wilda Reed Plaza Street",
+            "price": 65.54,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 4.91,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.91 km"
+        },
+        {
+            "id": "63589d4758bd19b279d60407",
+            "name": "Janell Ray Prescott Place",
+            "price": 18.33,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 4.54,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.54 km"
+        },
+        {
+            "id": "63589d474f3bd5ef312c8ade",
+            "name": "Maggie Shaffer Jaffray Street",
+            "price": 84.49,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 3.13,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.13 km"
+        },
+        {
+            "id": "63589d47fca8e63bcc13557e",
+            "name": "Fowler Bonner Brightwater Court",
+            "price": 54.92,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 4.05,
+            "facility": [
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.05 km"
+        },
+        {
+            "id": "63589d47252f091ac0e1f345",
+            "name": "Curtis Hanson Ferry Place",
+            "price": 96.9,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 2.38,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.38 km"
+        },
+        {
+            "id": "63589d477ab89a3b5a747aed",
+            "name": "Vinson Munoz Garland Court",
+            "price": 31.28,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 4.87,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.87 km"
+        },
+        {
+            "id": "63589d4715d702ced974d1d1",
+            "name": "Parrish Randolph Cove Lane",
+            "price": 15.26,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 1.19,
+            "facility": [
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.19 km"
+        },
+        {
+            "id": "63589d4748669d6fe9f35602",
+            "name": "Kerry Mcmillan Grand Avenue",
+            "price": 28.34,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 3.79,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.79 km"
+        },
+        {
+            "id": "63589d47235dd43e32eb84bb",
+            "name": "Decker Jackson Milton Street",
+            "price": 71.37,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 2.85,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.85 km"
+        },
+        {
+            "id": "63589d47d2465cf64603b51c",
+            "name": "Fay Mcintosh Richardson Street",
+            "price": 78.29,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 0.15,
+            "facility": [
+                "ELEVATOR",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.15 km"
+        },
+        {
+            "id": "63589d4792e18971fbd297bc",
+            "name": "Charmaine Cooke Vandam Street",
+            "price": 42.21,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 4.5,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.5 km"
+        },
+        {
+            "id": "63589d47792e4dfc3b3c6f96",
+            "name": "Santana Hooper Rewe Street",
+            "price": 28.48,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 3.38,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.38 km"
+        },
+        {
+            "id": "63589d47ef7ec7f39e217572",
+            "name": "Effie Roth Leonard Street",
+            "price": 19.19,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 2.22,
+            "facility": [
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.22 km"
+        },
+        {
+            "id": "63589d4796981311cd2c8320",
+            "name": "Lyons Maldonado Irving Avenue",
+            "price": 78.94,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 0.13,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.13 km"
+        },
+        {
+            "id": "63589d47e6ec9f1174d7a118",
+            "name": "Marian Johnston Albemarle Terrace",
+            "price": 37.02,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 0.97,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.97 km"
+        },
+        {
+            "id": "63589d47abd81059905407e6",
+            "name": "Mosley Levy Varick Street",
+            "price": 83.15,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 2.33,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.33 km"
+        },
+        {
+            "id": "63589d474089ebf46e8ace7c",
+            "name": "Jody Lynch Crooke Avenue",
+            "price": 17.81,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 4.67,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.67 km"
+        },
+        {
+            "id": "63589d47d32f1a45c8e5e43d",
+            "name": "Aida Castaneda Karweg Place",
+            "price": 99.77,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 0.68,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.68 km"
+        },
+        {
+            "id": "63589d47cc17ede15073748e",
+            "name": "Gamble Gallagher Fleet Walk",
+            "price": 81.5,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 1.23,
+            "facility": [
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.23 km"
+        },
+        {
+            "id": "63589d47cc41c7c88d805694",
+            "name": "Heidi Mcfadden Pooles Lane",
+            "price": 25.03,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 2.48,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.48 km"
+        },
+        {
+            "id": "63589d470a78eecb4bb1d2bd",
+            "name": "Tran Hayes Hastings Street",
+            "price": 72.52,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 3.51,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.51 km"
+        },
+        {
+            "id": "63589d4745f9028da0f59b4e",
+            "name": "Avery Kirby Story Street",
+            "price": 17.92,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 1.02,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.02 km"
+        },
+        {
+            "id": "63589d4758d689e77af88e3f",
+            "name": "Richmond Clayton Little Street",
+            "price": 45.81,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 1.05,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.05 km"
+        },
+        {
+            "id": "63589d47c014292c74f96a61",
+            "name": "James Ballard Dahill Road",
+            "price": 87.49,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 0.73,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.73 km"
+        },
+        {
+            "id": "63589d47998d940b9484d6b6",
+            "name": "Henry Callahan Boardwalk ",
+            "price": 83.11,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 3.34,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.34 km"
+        },
+        {
+            "id": "63589d4790b428f53873f2b4",
+            "name": "Hendricks Koch Rose Street",
+            "price": 54.56,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 0.71,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.71 km"
+        },
+        {
+            "id": "63589d4755e6f82f8c2f381c",
+            "name": "Pamela Coleman Riverdale Avenue",
+            "price": 96.42,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 4.15,
+            "facility": [
+                "ELEVATOR"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.15 km"
+        },
+        {
+            "id": "63589d47571c54ca7790487e",
+            "name": "Warren Kane Stone Avenue",
+            "price": 21.34,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 2.72,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.72 km"
+        },
+        {
+            "id": "63589d4704a71db6b94b2411",
+            "name": "Maryann Rodriguez Grafton Street",
+            "price": 14.4,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 2.91,
+            "facility": [
+                "ELEVATOR",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.91 km"
+        },
+        {
+            "id": "63589d47609d5d9e0a88d69d",
+            "name": "Jeanine Crosby Milford Street",
+            "price": 25.65,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 4.2,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.2 km"
+        },
+        {
+            "id": "63589d47f98a87584771fd0c",
+            "name": "Nadia Burks Kent Street",
+            "price": 99.4,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 4.68,
+            "facility": [
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.68 km"
+        },
+        {
+            "id": "63589d477cc9449cd6764af2",
+            "name": "Aurelia Stewart Onderdonk Avenue",
+            "price": 52.05,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 4.35,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.35 km"
+        },
+        {
+            "id": "63589d47adca2c89e1992487",
+            "name": "Ashley Lambert Havemeyer Street",
+            "price": 97.04,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 2.76,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.76 km"
+        },
+        {
+            "id": "63589d472797086c03f19b59",
+            "name": "Sherrie Kim Kingsland Avenue",
+            "price": 10.47,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 3.79,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.79 km"
+        },
+        {
+            "id": "63589d4748b453b920d9dc82",
+            "name": "Bell Mejia Dekalb Avenue",
+            "price": 45.39,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 2.14,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.14 km"
+        },
+        {
+            "id": "63589d47a9dd2bdcd2a59838",
+            "name": "Chasity Pruitt Elmwood Avenue",
+            "price": 88.83,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 4.17,
+            "facility": [
+                "HOT_EATER",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.17 km"
+        },
+        {
+            "id": "63589d47186dc81f2eb7b536",
+            "name": "Jodi Saunders Bennet Court",
+            "price": 14.9,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.41,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.41 km"
+        },
+        {
+            "id": "63589d478b859ebc65b00886",
+            "name": "Merritt Cooley Herkimer Place",
+            "price": 79.38,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 4.19,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.19 km"
+        },
+        {
+            "id": "63589d4757efde33065fa1ca",
+            "name": "Emily Valdez Stryker Court",
+            "price": 1.4,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 1.13,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.13 km"
+        },
+        {
+            "id": "63589d47b925e2114375a395",
+            "name": "Megan Weaver Varet Street",
+            "price": 3.75,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 0.43,
+            "facility": [
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.43 km"
+        },
+        {
+            "id": "63589d47d9d3c062d0c6c550",
+            "name": "Viola Nash Remsen Street",
+            "price": 74.87,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 3.66,
+            "facility": [
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.66 km"
+        },
+        {
+            "id": "63589d47cd01f2c25b2cb839",
+            "name": "Jennifer Strong Johnson Street",
+            "price": 60.52,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 1.31,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.31 km"
+        },
+        {
+            "id": "63589d470c11934af6051921",
+            "name": "Haley Stephens Fanchon Place",
+            "price": 96.17,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 3,
+            "distance": 1.95,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.95 km"
+        },
+        {
+            "id": "63589d47fceb1ca9573c92cc",
+            "name": "Alvarez Thornton Poplar Street",
+            "price": 57.73,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 2.2,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.2 km"
+        },
+        {
+            "id": "63589d4772a3ee599e4a7cc4",
+            "name": "Ila Howell Orient Avenue",
+            "price": 30.39,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 1,
+            "distance": 0.45,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.45 km"
+        },
+        {
+            "id": "63589d4703bb5d56d7d403ec",
+            "name": "Anne Sellers Hillel Place",
+            "price": 37.5,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 0.29,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.29 km"
+        },
+        {
+            "id": "63589d47af82251c27accdc9",
+            "name": "Deleon Moses Bradford Street",
+            "price": 53.77,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 2.24,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.24 km"
+        },
+        {
+            "id": "63589d47c671ca10ad170a9e",
+            "name": "Angelia Le Jodie Court",
+            "price": 80.1,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 1,
+            "distance": 2.07,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.07 km"
+        },
+        {
+            "id": "63589d47e82cbe8856bc3e14",
+            "name": "Conner Brewer Hanover Place",
+            "price": 35.27,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 0.92,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.92 km"
+        },
+        {
+            "id": "63589d4796819a73f1865709",
+            "name": "Pittman Herrera Driggs Avenue",
+            "price": 18.55,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 2.91,
+            "facility": [
+                "ELEVATOR",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.91 km"
+        },
+        {
+            "id": "63589d47473318871dfbdfd2",
+            "name": "Bertha Dennis Pineapple Street",
+            "price": 89.66,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 1.43,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.43 km"
+        },
+        {
+            "id": "63589d473ba9e6cedbccf84d",
+            "name": "Pacheco Park Norman Avenue",
+            "price": 5.68,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 1.05,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.05 km"
+        },
+        {
+            "id": "63589d470dbf64d3a9ac571a",
+            "name": "Molly Hodge Junius Street",
+            "price": 74.12,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 4.71,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.71 km"
+        },
+        {
+            "id": "63589d470120d6979a1364b6",
+            "name": "Singleton Dalton Melrose Street",
+            "price": 54.84,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 1.41,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.41 km"
+        },
+        {
+            "id": "63589d470764109c3bbc7b08",
+            "name": "Santiago Miles Ridge Court",
+            "price": 74.92,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 0.98,
+            "facility": [
+                "ELEVATOR",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.98 km"
+        },
+        {
+            "id": "63589d47f9118fc07402ba4d",
+            "name": "Nancy Cobb Verona Place",
+            "price": 8.61,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 4,
+            "distance": 3.44,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.44 km"
+        },
+        {
+            "id": "63589d4764ee6ccf9f298310",
+            "name": "Willis Delacruz Franklin Street",
+            "price": 43.28,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 3.94,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.94 km"
+        },
+        {
+            "id": "63589d473baaad97ef656333",
+            "name": "Stafford Henry Vine Street",
+            "price": 17.97,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 2.1,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.1 km"
+        },
+        {
+            "id": "63589d47b17c6063738c3946",
+            "name": "Oneal Wise Norwood Avenue",
+            "price": 21.18,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 2.51,
+            "facility": [
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.51 km"
+        },
+        {
+            "id": "63589d47e30d65a4ef0c8fa0",
+            "name": "Mallory Bray Harbor Lane",
+            "price": 36.7,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 4.3,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.3 km"
+        },
+        {
+            "id": "63589d479394978ff21e1b34",
+            "name": "Mayo Bentley Furman Street",
+            "price": 35.53,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 1.98,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.98 km"
+        },
+        {
+            "id": "63589d478506f5fea1a33faa",
+            "name": "Krystal Wyatt Leonora Court",
+            "price": 10.43,
+            "unit": "week",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 5,
+            "distance": 1.71,
+            "facility": [
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.71 km"
+        },
+        {
+            "id": "63589d47c778a4182cb8dcf2",
+            "name": "Clark Johnson Woodbine Street",
+            "price": 21.67,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 2.21,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.21 km"
+        },
+        {
+            "id": "63589d479ba542dd2f8d5b1f",
+            "name": "Figueroa Wolf Lefferts Place",
+            "price": 73.69,
+            "unit": "hour",
+            "bed": 3,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 1.75,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.75 km"
+        },
+        {
+            "id": "63589d47ee86d9f8ae41332b",
+            "name": "Fernandez Humphrey Hart Place",
+            "price": 91.46,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 2.09,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.09 km"
+        },
+        {
+            "id": "63589d473559c7c3ddacee03",
+            "name": "Collins Ward Richards Street",
+            "price": 30.77,
+            "unit": "night",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 3.52,
+            "facility": [
+                "ELEVATOR",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.52 km"
+        },
+        {
+            "id": "63589d47ae59e3e515204239",
+            "name": "Sparks Cunningham Tompkins Avenue",
+            "price": 21.68,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 0.03,
+            "facility": [
+                "COOKING_PLACE",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.03 km"
+        },
+        {
+            "id": "63589d472bd64571a365150d",
+            "name": "Hooper Stevenson Gain Court",
+            "price": 58.59,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 1.82,
+            "facility": [
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.82 km"
+        },
+        {
+            "id": "63589d476d24f6e9ca09524e",
+            "name": "Crawford Cain Lewis Avenue",
+            "price": 40.6,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 0.92,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.92 km"
+        },
+        {
+            "id": "63589d470cd42bc8896466bf",
+            "name": "Bessie Briggs Williamsburg Street",
+            "price": 98.56,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 3,
+            "distance": 3.13,
+            "facility": [
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.13 km"
+        },
+        {
+            "id": "63589d475038ae35b549130d",
+            "name": "Fitzpatrick Powell Corbin Place",
+            "price": 27.42,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 0.17,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.17 km"
+        },
+        {
+            "id": "63589d47ea669fa2100cf062",
+            "name": "Dora Nunez Terrace Place",
+            "price": 46.63,
+            "unit": "night",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 4.31,
+            "facility": [
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.31 km"
+        },
+        {
+            "id": "63589d47a5ad2eb12d46514a",
+            "name": "Esther Gordon Ditmars Street",
+            "price": 46.15,
+            "unit": "night",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.83,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.83 km"
+        },
+        {
+            "id": "63589d47f75111736569d889",
+            "name": "Gentry Small Fillmore Avenue",
+            "price": 65.35,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 2.4,
+            "facility": [
+                "HOT_EATER",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.4 km"
+        },
+        {
+            "id": "63589d47ad2fafd3d01e22ea",
+            "name": "George Mccall Cheever Place",
+            "price": 30.75,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 4.8,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.8 km"
+        },
+        {
+            "id": "63589d47ec003fa00cb576ac",
+            "name": "Mueller Harmon Lincoln Place",
+            "price": 17.69,
+            "unit": "hour",
+            "bed": 2,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 4.5,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.5 km"
+        },
+        {
+            "id": "63589d47536c6dafbeb99af6",
+            "name": "Noemi Reyes Christopher Avenue",
+            "price": 67.51,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 4,
+            "distance": 0.69,
+            "facility": [
+                "ELEVATOR"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.69 km"
+        },
+        {
+            "id": "63589d470fe5615f7afa839b",
+            "name": "Ford Atkinson Woods Place",
+            "price": 54.77,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 3.94,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.94 km"
+        },
+        {
+            "id": "63589d473ddffc61ea8d9d32",
+            "name": "Cox Nieves Roder Avenue",
+            "price": 70.39,
+            "unit": "week",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 5,
+            "distance": 4.91,
+            "facility": [
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.91 km"
+        },
+        {
+            "id": "63589d47425d5fa56a2d42c6",
+            "name": "Bright Gilmore Bleecker Street",
+            "price": 73.68,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.78,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.78 km"
+        },
+        {
+            "id": "63589d47a89ccf87214fbd1b",
+            "name": "Laura Bush Friel Place",
+            "price": 74.33,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 2,
+            "rating": 4,
+            "distance": 0.64,
+            "facility": [
+                "ELEVATOR",
+                "COOKING_PLACE",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=0.64 km"
+        },
+        {
+            "id": "63589d47a0673c7869041806",
+            "name": "Rose Mcgowan Cleveland Street",
+            "price": 28.57,
+            "unit": "week",
+            "bed": 1,
+            "bath_room": 3,
+            "rating": 2,
+            "distance": 2.11,
+            "facility": [
+                "HOT_EATER",
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.11 km"
+        },
+        {
+            "id": "63589d474f7e75f3136fc6b4",
+            "name": "Schultz Ayers Pierrepont Place",
+            "price": 13.77,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 1.51,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.51 km"
+        },
+        {
+            "id": "63589d478e731217ed334ecf",
+            "name": "Natalia Glover Kensington Walk",
+            "price": 19.52,
+            "unit": "month",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 1,
+            "distance": 2.36,
+            "facility": [
+                "PARKING"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.36 km"
+        },
+        {
+            "id": "63589d47a60c6fe562be5370",
+            "name": "Marquita Chapman Colonial Road",
+            "price": 77.19,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 3.8,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=3.8 km"
+        },
+        {
+            "id": "63589d475cdbadde5ee511d7",
+            "name": "Angelina Emerson Nixon Court",
+            "price": 43.11,
+            "unit": "month",
+            "bed": 3,
+            "bath_room": 3,
+            "rating": 5,
+            "distance": 2.45,
+            "facility": [
+                "HOT_EATER",
+                "COOKING_PLACE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=2.45 km"
+        },
+        {
+            "id": "63589d4752a48d9dfea6b8da",
+            "name": "Kari Silva Vermont Court",
+            "price": 14.98,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 1,
+            "rating": 3,
+            "distance": 1.1,
+            "facility": [
+                "COOKING_PLACE",
+                "PARKING",
+                "CLEANING_SERVICE",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1 km"
+        },
+        {
+            "id": "63589d471ce93d8e0c008c41",
+            "name": "Amelia Gray India Street",
+            "price": 97.82,
+            "unit": "hour",
+            "bed": 1,
+            "bath_room": 1,
+            "rating": 2,
+            "distance": 4.47,
+            "facility": [
+                "HOT_EATER",
+                "PARKING",
+                "NEARBY_STORES"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=4.47 km"
+        },
+        {
+            "id": "63589d47efda5a3625426d45",
+            "name": "Kathleen Hawkins Nassau Street",
+            "price": 18.69,
+            "unit": "month",
+            "bed": 2,
+            "bath_room": 2,
+            "rating": 2,
+            "distance": 1.3,
+            "facility": [
+                "ELEVATOR",
+                "HOT_EATER",
+                "PARKING",
+                "CLEANING_SERVICE"
+            ],
+            "thumbnail": "https://dummyimage.com/81x91/3846ab/ffffff.png&text=1.3 km"
+        }
+    ]
+}
